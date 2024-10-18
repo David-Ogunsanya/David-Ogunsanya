@@ -4,7 +4,7 @@ I am a data-driven MSci Chemistry graduate with a passion for technology and dat
 
 Skills:  Python, JavaScript SQL. 
 Tools & Technologies: HTML, CSS, ReactJS, Power BI, Excel, Canva, Linux.  
-Data Analysis: Data gathering, cleaning, exploratory analysis, KPIs, and insight generation. 
+Data Analysis: Data gathering, cleaning, exploratory analysis, KPIs, and insight generation.  
 Libraries: Pandas, NumPy, Matplotlib. Other: AGILE methodologies, MVP development
 
 - 🔭 I’m currently working on this page. 
