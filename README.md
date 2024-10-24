@@ -7,7 +7,7 @@ Tools & Technologies: HTML, CSS, ReactJS, Power BI, Excel, Canva, Linux.
 Data Analysis: Data gathering, cleaning, exploratory analysis, KPIs, and insight generation.  
 Libraries: Pandas, NumPy, Matplotlib. Other: AGILE methodologies, MVP development
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page and also creating my own website about galaxies. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/David-Ogunsanya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/david-ogunsanya//)  
