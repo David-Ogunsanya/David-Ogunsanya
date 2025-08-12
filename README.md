@@ -21,6 +21,7 @@ BI & Data Tools: Power BI, Tableau, Excel (Advanced)
 Other Tools: GitHub, Jupyter Notebooks, Linux
 Methodologies: AGILE, MVP Development
 📂 Projects
+    Machine Learning studies - learning different machine learning technqies
 
     Machine Learning for Sustainable Chemistry – Predictive analytics for green solvent selection.
 
